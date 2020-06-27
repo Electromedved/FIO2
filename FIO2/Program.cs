@@ -40,6 +40,8 @@ namespace FIO2
 
             Console.WriteLine("-------------------------------------------");
 
+            Console.WriteLine("-------------------------------------------");
+
             /*
             Console.WriteLine("Ваше имя: " + fName);
             Console.WriteLine("Ваша фамилия: " + lName);
